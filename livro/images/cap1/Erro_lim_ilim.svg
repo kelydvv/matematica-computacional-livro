@@ -122,9 +122,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89925833"
-     inkscape:cx="348.71354"
-     inkscape:cy="643.48784"
+     inkscape:zoom="3.2486524"
+     inkscape:cx="236.30585"
+     inkscape:cy="533.7732"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -228,7 +228,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -297,17 +297,17 @@
        sodipodi:linespacing="125%"
        id="text3104"
        y="510.61044"
-       x="58.374935"
+       x="40.374935"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
        xml:space="preserve"><tspan
          y="510.61044"
-         x="58.374935"
+         x="40.374935"
          id="tspan3106"
          sodipodi:role="line">o</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3108"
-       d="m 58.779148,511.47941 4.420716,0"
+       d="m 40.779148,511.47941 4.420716,0"
        style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="cc"
@@ -357,17 +357,17 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-       x="390.37491"
+       x="372.37491"
        y="510.61044"
        id="text3936"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3938"
-         x="390.37491"
+         x="372.37491"
          y="510.61044">o</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 390.77915,511.47941 4.42071,0"
+       d="m 372.77915,511.47941 4.42071,0"
        id="path3940"
        inkscape:connector-curvature="0" />
     <path
